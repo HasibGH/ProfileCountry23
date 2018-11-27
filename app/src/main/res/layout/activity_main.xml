@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#b48e8e"
+    tools:context=".MainActivity">
+
+    <SearchView
+        android:id="@+id/searchviewid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="Search Your Country Name">
+
+
+    </SearchView>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listviewid"
+        android:divider="#893d3d"
+        android:dividerHeight="2dp"
+        android:listSelector="#54daa2">
+
+    </ListView>
+</android.support.constraint.ConstraintLayout>

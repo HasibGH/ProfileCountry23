@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">ProfileCountry</string>
+
+    <string name="afg1">Afghanistan</string>
+    <string name="Descrip1">Click Here To See Description</string>
+    <string name="titlename">Setting</string>
+    <string name="titlename2">Share</string>
+    <string name="titlename3">FeedBack</string>
+    <string name="titlename4">About us</string>
+    <string name="titlename5">Contract</string>
+
+
+    <string-array name="CountryNamesis">
+
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Afghanistan</item>
+        <item>Australia</item>
+        <item>China</item>
+        <item>Azerbaijan</item>
+        <item>Srilanka</item>
+        <item>England</item>
+
+    </string-array>
+
+
+    <string name="BangladeshText">
+        Bangladesh is a middle power and a developing nation.
+        Listed as one of the Next Eleven, its economy ranks 43rd in terms of nominal gross domestic product and 29th in terms of purchasing power parity.
+        It is one of the largest textile exporters in the world.
+        Its major trading partners are the European Union, the United States, China, India, Japan, Malaysia and Singapore.
+        With its strategically vital location between South, East and Southeast Asia,
+        Bangladesh is an important promoter of regional connectivity and cooperation.
+        It is a founding member of SAARC, BIMSTEC, the Bangladesh-China-India-Myanmar Forum for Regional
+        Cooperation and the Bangladesh Bhutan India Nepal Initiative.
+
+    </string>
+
+    <string name="IndiaText">
+
+        The Indian subcontinent was home to the urban Indus Valley Civilisation
+        of the 3rd millennium BCE. In the following millennium,
+        the oldest scriptures associated with Hinduism began to be composed.
+        Social stratification, based on caste, emerged in the first millennium BCE, and Buddhism and Jainism arose.
+        Early political consolidations took place under the Maurya and Gupta empires;
+        the later peninsular Middle Kingdoms influenced cultures as far as Southeast Asia.
+        In the medieval era, Judaism, Zoroastrianism, Christianity, and Islam arrived, and Sikhism emerged,
+        all adding to the regions diverse culture.
+
+    </string>
+
+    <string name="PakistanText">
+
+        Pakistan[b] (Urdu: پاکِستان‬‎), officially the Islamic Republic of Pakistan
+        (Urdu: اِسلامی جمہوریہ پاکِستان‬‎), is a country in South Asia.
+        It is the sixth-most populous country with a population exceeding 212,742,631 people.
+        [19] In area, it is the 33rd-largest country, spanning 881,913 square kilometres (340,509 square miles).
+        Pakistan has a 1,046-kilometre (650-mile) coastline along the Arabian Sea and Gulf of Oman in
+        the south and is bordered by India to the east, Afghanistan to the west, Iran to the southwest,
+        and China in the far northeast.
+
+    </string>
+
+    <string name="CanadaText">
+
+        Canada (French: [kanadɑ]) is a country located in the northern part of North America.
+        Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean,
+        covering 9.98 million square kilometres (3.85 million square miles),
+        making it the worlds second-largest country by total area.
+        Canadas southern border with theUnited States is the worlds longest bi-national land border.
+        As a whole, Canada is sparsely populated,
+        the majority of its land area being dominated by forest and tundra.
+        Consequently, its population is highly urbanized,
+        with over 80 percent of its inhabitants concentrated in large and medium-sized cities,
+        many near the southern border.
+        Its capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.
+        Canadas climate varies widely across its vast area, ranging from arctic weather in the north,
+        to hot summers in the southern regions, with four distinct seasons.
+
+    </string>
+
+    <string name="AfghanistanText">
+
+    Afghanistan (/æfˈɡænɪstæn, æfˈɡɑːnɪstɑːn/ (About this sound listen); Pashto/Dari: افغانستان‬,
+        Pashto: Afġānistān [avɣɒnisˈtɒn, ab-],[10] Dari: Afġānestān [avɣɒnesˈtɒn]),
+        officially the Islamic Republic of Afghanistan, is a landlocked country located within South Asia.
+        [11][12] Afghanistan is bordered by Pakistan in the south and east; Iran in the west;
+        Turkmenistan, Uzbekistan, and Tajikistan in the north; and in the far northeast, China.
+        Its territory covers 652,000 square kilometers (252,000 sq mi) and much of it is covered by
+        the Hindu Kush mountain range, which experience very cold winters. The north consists of fertile plains,
+        whilst the south-west consists of deserts where temperatures can get very hot in summers.
+        [13] Kabul serves as the capital and its largest city.
+
+
+
+    </string>
+
+    <string name="AustraliaText">
+
+        Australia, officially the Commonwealth of Australia,[11] is a sovereign country
+        comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.
+        It is the largest country in Oceania and the worlds sixth-largest country by total area.
+        The neighbouring countries are Papua New Guinea, Indonesia and East Timor to the north;
+        the Solomon Islands and Vanuatu to the north-east; and New Zealand to the south-east.
+        The population of 25 million[6] is highly urbanised and heavily concentrated on the eastern seaboard.
+        [12] Australias capital is Canberra, and its largest city is Sydney.
+        The countrys other major metropolitan
+        areas are Melbourne, Brisbane, Perth and Adelaide.
+
+    </string>
+
+    <string name="ChinaText">
+
+        China, officially the Peoples Republic of China (PRC),
+        is a country in East Asia and the worlds most populous country, with a population of around 1.
+        404 billion.[13] Covering approximately 9,600,000 square kilometers (3,700,000 sq mi),
+        it is the third- or fourth-largest country by total area,[k][19] depending on the source consulted.
+        Governed by the Communist Party of China, the state exercises jurisdiction over 22 provinces,
+        five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing),
+        and the special administrative regions of Hong Kong and Macau.
+
+
+    </string>
+
+    <string name="AzerText">
+
+        Azerbaijan (/æzərbaɪˈdʒɑːn/ (About this sound listen) AZ-ər-by-JAHN; Azerbaijani: Azərbaycan [ɑːzæɾbɑjˈd͡ʒɑn]),
+        officially the Republic of Azerbaijan (Azerbaijani: Azərbaycan Respublikası [ɑːzæɾbɑjˈd͡ʒɑn ɾespublikɑˈsɯ]),
+        is a country in the South Caucasus region of Eurasia at the crossroads of Eastern Europe and Western Asia.
+        [7] It is bounded by the Caspian Sea to the east, Russia to the north, Georgia to the northwest,
+        Armenia to the west and Iran to the south. The exclave of Nakhchivan is bound by Armenia to the north and east,
+        Iran to the south and west, and has an 11 km long border with Turkey in the north west.
+
+
+    </string>
+
+    <string name="SrilankaText">
+
+        Sri Lanka (UK: /sri ˈlæŋkə, ʃriː -/, US: /- ˈlɑːŋkə/ (About this sound listen);[11][12] Sinhala:
+        ශ්‍රී ලංකා Śrī Laṃkā; Tamil: இலங்கை Ilaṅkai), officially the Democratic Socialist Republic of Sri Lanka,
+        is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal
+        and to the southeast of the Arabian Sea. It is separated from the Indian subcontinent by the Gulf of Mannar and
+        the Palk Strait. The legislative capital, Sri Jayawardenepura Kotte, is a suburb of the commercial capital and largest city,
+        Colombo.
+    </string>
+
+    <string name="EnglandText">
+
+
+        England is a country that is part of the United Kingdom.
+        [6][7][8] It shares land borders with Scotland to the north and Wales to the west.
+        The Irish Sea lies northwest of England and the Celtic Sea lies to the southwest.
+        England is separated from continental Europe by the North Sea to the east and the English Channel to the south.
+        The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over
+        100 smaller islands, such as the Isles of Scilly and the Isle of Wight.
+    </string>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+
+        android:id="@+id/settingitemid"
+        android:title="@string/titlename"
+        app:showAsAction="always"
+
+        /> <item
+
+        android:id="@+id/shareitemid"
+        android:title="@string/titlename2"
+        app:showAsAction="never"
+
+        /> <item
+
+        android:id="@+id/feedbackid"
+        android:title="@string/titlename3"
+        app:showAsAction="never"
+
+        /> <item
+
+        android:id="@+id/aboutid"
+        android:title="@string/titlename4"
+        app:showAsAction="never"
+
+        /> <item
+
+        android:id="@+id/contractid"
+        android:title="@string/titlename5"
+        app:showAsAction="never"
+
+        />
+
+
+
+</menu>
